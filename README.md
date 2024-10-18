@@ -23,7 +23,7 @@ The main objective of this diagram is to organize and visualize the diverse lear
 The "Fundamentals" node sits at the core of the map, representing the foundational knowledge that connects all other resources, tools, and certifications. This core is crucial for cybersecurity, as it encompasses the basic principles that guide your learning and practical experience. These fundamentals include understanding cybersecurity concepts like confidentiality, integrity, and availability (CIA triad), risk management, and the essential tools for threat detection and prevention.
 
 Why it’s essential: Without a strong grasp of the fundamentals, it would be difficult to interpret advanced materials or apply practical skills. This node emphasizes the integration of theoretical knowledge with practical tools, ensuring a balanced learning experience.
-Sources
+### Sources
 The sources provide the raw materials and knowledge base for your cybersecurity learning, from high-level overviews to in-depth technical tutorials. This section explains where you gather your learning material and how each source plays a role in shaping your understanding. 
 <br><br>
 ### Sources:
