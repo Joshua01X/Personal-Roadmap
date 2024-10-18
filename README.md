@@ -22,40 +22,40 @@ The main objective of this diagram is to organize and visualize the diverse lear
 ### Fundamentals
 The "Fundamentals" node sits at the core of the map, representing the foundational knowledge that connects all other resources, tools, and certifications. This core is crucial for cybersecurity, as it encompasses the basic principles that guide your learning and practical experience. These fundamentals include understanding cybersecurity concepts like confidentiality, integrity, and availability (CIA triad), risk management, and the essential tools for threat detection and prevention.
 
-Why it’s essential: Without a strong grasp of the fundamentals, it would be difficult to interpret advanced materials or apply practical skills. This node emphasizes the integration of theoretical knowledge with practical tools, ensuring a balanced learning experience.
+<b>Why it’s essential</b>: Without a strong grasp of the fundamentals, it would be difficult to interpret advanced materials or apply practical skills. This node emphasizes the integration of theoretical knowledge with practical tools, ensuring a balanced learning experience.
 ### Sources
 The sources provide the raw materials and knowledge base for your cybersecurity learning, from high-level overviews to in-depth technical tutorials. This section explains where you gather your learning material and how each source plays a role in shaping your understanding. 
 <br><br>
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?logo=openai&logoColor=white&style=plastic)
 
-Use: I use ChatGPT as an interactive assistant to explain complicated concepts in cybersecurity, clarify doubts, and even provide structured learning paths. It’s an invaluable tool for generating real-time insights or troubleshooting problems as I go through different topics.
-Example: When studying encryption techniques, I use ChatGPT to get simplified explanations of symmetric vs. asymmetric encryption, including practical examples.
+<b>Use</b>: I use ChatGPT as an interactive assistant to explain complicated concepts in cybersecurity, clarify doubts, and even provide structured learning paths. It’s an invaluable tool for generating real-time insights or troubleshooting problems as I go through different topics. <br>
+<b>Example</b>: When studying encryption techniques, I use ChatGPT to get simplified explanations of symmetric vs. asymmetric encryption, including practical examples.
 <br><br>
 
 ![Google](https://img.shields.io/badge/Google-FBBC05?logo=google&logoColor=red&style=plastic)
 
-Use: Google is my go-to for general research and locating more specialized articles, blogs, forums, and scholarly papers. It helps in finding official documentation, industry trends, and expert opinions.
-Example: When investigating vulnerabilities or specific attack vectors (e.g., SQL injections), Google helps me track down resources from trusted security blogs like KrebsOnSecurity or vendor-specific advisories.
+<b>Use</b>: Google is my go-to for general research and locating more specialized articles, blogs, forums, and scholarly papers. It helps in finding official documentation, industry trends, and expert opinions.<br>
+<b>Example</b>: When investigating vulnerabilities or specific attack vectors (e.g., SQL injections), Google helps me track down resources from trusted security blogs like KrebsOnSecurity or vendor-specific advisories.
 <br><br>
 
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?logo=google-gemini&logoColor=purple&style=plastic)
 
-Use: As a supplementary search engine, Gemini helps broaden my search and find resources that might not appear in Google's top results. It allows me to explore alternative viewpoints and access more niche publications or discussions.
-Example: I use Gemini for finding case studies or rare white papers on specific cybersecurity incidents.
+<b>Use</b>: As a supplementary search engine, Gemini helps broaden my search and find resources that might not appear in Google's top results. It allows me to explore alternative viewpoints and access more niche publications or discussions.<br>
+<b>Example</b>: I use Gemini for finding case studies or rare white papers on specific cybersecurity incidents.
 <br><br>
 
 ![Library Genesis](https://img.shields.io/badge/Library%20Genesis-9E9E9E?logo=book&logoColor=blue&style=plastic)
 
-Use: I use Library Genesis to access textbooks, research papers, and other academic literature to deepen my understanding of core cybersecurity concepts, such as cryptography, network security, and ethical hacking.
-Example: I download academic texts or certification preparation books (e.g., CompTIA Security+ study guides) from here to expand my theoretical knowledge.
-Method: I utilize my knowledge to check the provided SHA-256 checksum beforehand and compare the hash values of the files I upload to my local host with those provided on the website using PowerShell. I further verify the file integrity through VirusTotal and indirectly access them by uploading them to my Google Drive. 
+<b>Use</b>: I use Library Genesis to access textbooks, research papers, and other academic literature to deepen my understanding of core cybersecurity concepts, such as cryptography, network security, and ethical hacking.<br>
+<b>Example</b>: I download academic texts or certification preparation books (e.g., CompTIA Security+ study guides) from here to expand my theoretical knowledge.<br>
+<b>Method</b>: I utilize my knowledge to check the provided SHA-256 checksum beforehand and compare the hash values of the files I upload to my local host with those provided on the website using PowerShell. I further verify the file integrity through VirusTotal and indirectly access them by uploading them to my Google Drive. 
 <br><br>
 
 ![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=plastic)
 
-Use: YouTube is an essential visual learning tool where I can watch tutorials, demos, and conference presentations. I use it for both technical walkthroughs and broader industry trends.
-Example: I follow cybersecurity channels that offer free but comprehensive learning materials like Professor Messer, Inside Cloud and Security, and more.
+<b>Use</b>: YouTube is an essential visual learning tool where I can watch tutorials, demos, and conference presentations. I use it for both technical walkthroughs and broader industry trends.<br>
+<b>Example</b>: I follow cybersecurity channels that offer free but comprehensive learning materials like Professor Messer, Inside Cloud and Security, and more.
 
 ### Certifications
 
@@ -64,27 +64,26 @@ Certifications are a core part of my learning journey, providing structured curr
 
 ![Google Cybersecurity Certificate](https://img.shields.io/badge/Google%20Cybersecurity%20Certificate-4285F4?logo=google&logoColor=yellow&style=plastic)
 
-Use: I started with the <b>Google IT Professional Certificate</b> to build a foundation in IT and networking, learning basic troubleshooting and system administration. The <b>Google Cybersecurity Professional Certificate</b> helped extend my understanding into fundamental security concepts, preparing me for more advanced certifications.
-Example: I gained an understanding of cloud security practices and vulnerability management, which is critical for securing IT infrastructure.
+<b>Use</b>: I started with the <b>Google IT Professional Certificate</b> to build a foundation in IT and networking, learning basic troubleshooting and system administration. The <b>Google Cybersecurity Professional Certificate</b> helped extend my understanding into fundamental security concepts, preparing me for more advanced certifications.<br>
+<b>Example</b>: I gained an understanding of cloud security practices and vulnerability management, which is critical for securing IT infrastructure.
 <br><br>
 
 ![CompTIA Sec+](https://img.shields.io/badge/CompTIA%20Sec+-E14C30?logo=comptia&logoColor=white)
 
-Use: CompTIA certifications (A+, Network+, Security+) are critical for validating foundational IT knowledge. A+ covers essential hardware and software troubleshooting skills, while Network+ gives a strong grasp of networking fundamentals, and Security+ delves into core security practices.
-Example: Security+ helped me understand topics such as encryption, access control, and security risk management, which I could then apply in lab settings using hands-on tools like TryHackMe.
+<b>Use</b>: CompTIA certifications (A+, Network+, Security+) are critical for validating foundational IT knowledge. A+ covers essential hardware and software troubleshooting skills, while Network+ gives a strong grasp of networking fundamentals, and Security+ delves into core security practices.<br>
+<b>Example</b>: Security+ helped me understand topics such as encryption, access control, and security risk management, which I could then apply in lab settings using hands-on tools like TryHackMe.
 <br><br>
 
 ![Microsoft SC-900](https://img.shields.io/badge/Microsoft%20SC--900-0078D4?logo=microsoft&logoColor=white&style=plastic)
 
-Use: Microsoft certifications such as SC-900 and SC-200 focus on cloud and security solutions, aligning with my goal of working in security operations. These certifications help me understand cloud security frameworks and how to apply security monitoring tools in real-world environments.
-Example: SC-900 introduced me to security compliance in Microsoft cloud services, while SC-200 equips me with the skills to detect and respond to security threats in Microsoft Azure.
+<b>Use</b>: Microsoft certifications such as SC-900 and SC-200 focus on cloud and security solutions, aligning with my goal of working in security operations. These certifications help me understand cloud security frameworks and how to apply security monitoring tools in real-world environments.<br>
+<b>Example</b>: SC-900 introduced me to security compliance in Microsoft cloud services, while SC-200 equips me with the skills to detect and respond to security threats in Microsoft Azure.
 <br><br>
 
 ![LeveldCareers Cybersecurity Analyst](https://img.shields.io/badge/LeveldCareers%20Cybersecurity%20Analyst-4CAF50?logo=security&logoColor=white&style=plastic)
 
-Use: I am using the Cybersecurity Analyst course offered by LeveldCareers, which provides hands-on practical experience in cybersecurity operations. This course helps bridge the gap between theory and real-world applications by offering guided exercises and simulations designed for aspiring security analysts.
-
-Example: Through this course, I gain practical experience in tasks such as log analysis, threat detection, incident response, and vulnerability assessment, which are key responsibilities of a cybersecurity analyst. These exercises help prepare me for the operational side of cybersecurity, ensuring that I am well-versed in both tools and techniques used by professionals in the field.
+<b>Use</b>: I am using the Cybersecurity Analyst course offered by LeveldCareers, which provides hands-on practical experience in cybersecurity operations. This course helps bridge the gap between theory and real-world applications by offering guided exercises and simulations designed for aspiring security analysts.<br>
+<b>Example</b>: Through this course, I gain practical experience in tasks such as log analysis, threat detection, incident response, and vulnerability assessment, which are key responsibilities of a cybersecurity analyst. These exercises help prepare me for the operational side of cybersecurity, ensuring that I am well-versed in both tools and techniques used by professionals in the field.
 <br><br>
 ### Others:
 This section includes platforms and tools that provide practical, hands-on experience in cybersecurity, allowing me to apply what I’ve learned from the theoretical sources and certifications. These are essential for developing the operational skills needed to work in real-world environments.
@@ -92,15 +91,14 @@ This section includes platforms and tools that provide practical, hands-on exper
 
 ![Qualys](https://img.shields.io/badge/Qualys-FF0000?logo=qualys&logoColor=white&style=plastic)
 
-Use: Qualys is a vulnerability management platform I use to understand how security professionals identify and mitigate vulnerabilities in networks and systems. This hands-on tool helps me develop practical skills in managing and prioritizing security risks.
-Example: I perform vulnerability scans on a simulated network to learn how to identify high-risk vulnerabilities and patch them accordingly, honing my skills in proactive threat mitigation.
+<b>Use</b>: Qualys is a vulnerability management platform I use to understand how security professionals identify and mitigate vulnerabilities in networks and systems. This hands-on tool helps me develop practical skills in managing and prioritizing security risks.<br>
+<b>Example</b>: I perform vulnerability scans on a simulated network to learn how to identify high-risk vulnerabilities and patch them accordingly, honing my skills in proactive threat mitigation.
 <br><br>
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-4CAF50?logo=tryhackme&logoColor=white&style=plastic)
 
-
-Use: TryHackMe provides practical, scenario-based learning in the form of hacking labs, which simulate real-world cyber attacks and defenses. I specifically focus on SOC Level 1 training here, gaining incident detection and response skills.
-Example: I engage in challenges like identifying and mitigating phishing attacks, analyzing malicious traffic, and using SIEM (Security Information and Event Management) tools to detect intrusions.
+<b>Use</b>: TryHackMe provides practical, scenario-based learning in the form of hacking labs, which simulate real-world cyber attacks and defenses. I specifically focus on SOC Level 1 training here, gaining incident detection and response skills.<br>
+<b>Example</b>: I engage in challenges like identifying and mitigating phishing attacks, analyzing malicious traffic, and using SIEM (Security Information and Event Management) tools to detect intrusions.
 
 ## Implications of This Project
 
