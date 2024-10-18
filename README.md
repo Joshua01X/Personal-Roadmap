@@ -26,7 +26,6 @@ Why it’s essential: Without a strong grasp of the fundamentals, it would be di
 ### Sources
 The sources provide the raw materials and knowledge base for your cybersecurity learning, from high-level overviews to in-depth technical tutorials. This section explains where you gather your learning material and how each source plays a role in shaping your understanding. 
 <br><br>
-### Sources:
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?logo=openai&logoColor=white&style=plastic)
 
